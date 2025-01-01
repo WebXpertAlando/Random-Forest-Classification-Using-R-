@@ -11,6 +11,6 @@ In simple words, the random forest approach increases the performance of decisio
 This project is about wine quality classification Using R studio . I used historical data of wine chemical substances: 
 fixed acidity,	volatile acidity,	citric acid,	residual sugar,	chlorides,	free sulfur dioxide,	total sulfur dioxide,	density,	pH,	sulphates,	alcohol, and	quality
 
-# Objective
+# Objectives
  - To separate the data into groups, or clusters with more similar traits to each other than to the data in the other clusters.
  - To reveal group of based on the chemical analysis reports
